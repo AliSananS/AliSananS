@@ -12,7 +12,7 @@ Building high-performance, cost-effective edge architectures, stateful real-time
 - **[TurboSync](https://turbosync.alisanan.site)** — Distributed edge-native video synchronization platform coordinating real-time playback across remote peers with sub-15ms precision. Built with **Cloudflare Durable Objects**, **WebSocket Hibernation API**, and token-bucket rate limiting. ([Repo](https://github.com/AliSananS/turbosync))
 - **[Jam SEO Agency](https://jamseo.agency)** — Production marketing and publishing platform built with **Next.js App Router** and **Payload CMS 3.x**, deployed to Cloudflare Workers via **OpenNext** with custom compressed R2 incremental caching.
 - **[ToolsWeb](https://toolsweb.io)** — Full-stack utility platform built as a Turborepo monorepo with Bun, Next.js, and Payload CMS. Features an edge-native **Model Context Protocol (MCP) server** on Cloudflare Workers with OAuth 2.0 authentication.
-- **[Al-Maqbool Woodworking](https://almaqboolnncarpenter.com)** — Commercial client site for a Dubai bespoke woodworking enterprise. Sub-second mobile delivery using Next.js 16, Tailwind CSS v4, and MDX.
+- **[Shama Sadiq Carpenters](https://shamasadiqcarpenters.com)** — Commercial client site for a Dubai bespoke woodworking enterprise. Sub-second mobile delivery using Next.js 16, Tailwind CSS v4, and MDX.
 - **[NHFS](https://github.com/AliSananS/NHFS)** — Terminal-friendly HTTP file server utility with in-browser browsing, upload, and media preview capabilities.
 
 ---
